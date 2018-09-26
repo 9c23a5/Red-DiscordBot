@@ -1,0 +1,15 @@
+libbz2-dev
+libopus-dev
+liblzma-dev
+libsqlite3-dev
+libncurses5-dev
+libgdbm-dev
+zlib1g-dev
+libreadline-dev
+git
+unzip
+libssl-dev
+tk-dev
+build-essential
+libffi-dev
+libav-tools
