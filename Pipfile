@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+"discord.py" = {git = "git://github.com/Rapptz/discord.py.git", extras = ["voice"]}
+imgurpython = "*"
+youtube_dl = "*"
+
+[requires]
+python_version = "3.4"
