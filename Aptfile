@@ -1,5 +1,5 @@
 libbz2-dev
-libopus-dev
+http://ftp.us.debian.org/debian/pool/main/o/opus/libopus-dev_1.3~beta+20180518-1_amd64.deb
 liblzma-dev
 libsqlite3-dev
 libncurses5-dev
